@@ -25,7 +25,7 @@ module SyncCounter_tb;
     end
 
     initial begin
-          rst = 0; // reset active
+        rst = 0; // reset active
         #20;
         // Case 1: ctn0 vs ctn1 
       
